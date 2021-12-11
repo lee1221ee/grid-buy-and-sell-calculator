@@ -1,0 +1,23 @@
+body {
+  font-family: "Microsoft Jhenghei";
+}
+
+table {
+  table-layout: fixed;
+}
+
+table > thead > tr > th {
+  font-weight: 400;
+}
+
+table > tbody > tr > td {
+  width: 200px;
+}
+
+.jumbotron {
+  font-weight: 300;
+}
+
+#footer {
+  font-size: 12px;
+}
